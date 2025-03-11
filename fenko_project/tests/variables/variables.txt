@@ -1,0 +1,5 @@
+login=filatovafevronija
+password=_551Ddix3$
+mail=arhip1988@mail.ru
+first_name=Радим
+last_name=Крюкова

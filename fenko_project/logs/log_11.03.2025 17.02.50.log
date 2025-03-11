@@ -1,0 +1,187 @@
+
+-----
+Test: test_1_registration.py::test_registrarion_in_website (call)
+Start time: 2025-03-11 17:02:56.228063
+Start name method: open_login_window
+
+End time: 2025-03-11 17:02:56.671163
+End name method: open_login_window
+URL: https://fenkovrn.ru/
+
+-----
+
+-----
+Test: test_1_registration.py::test_registrarion_in_website (call)
+Start time: 2025-03-11 17:02:56.671163
+Start name method: registration_with_correct_data
+
+End time: 2025-03-11 17:03:02.460464
+End name method: registration_with_correct_data
+URL: https://fenkovrn.ru/
+
+-----
+
+-----
+Test: test_2_authorization.py::test_authorization_in_website (call)
+Start time: 2025-03-11 17:03:09.859129
+Start name method: open_login_window
+
+End time: 2025-03-11 17:03:10.266220
+End name method: open_login_window
+URL: https://fenkovrn.ru/
+
+-----
+
+-----
+Test: test_2_authorization.py::test_authorization_in_website (call)
+Start time: 2025-03-11 17:03:10.267220
+Start name method: authorization_with_correct_data
+
+End time: 2025-03-11 17:03:15.178325
+End name method: authorization_with_correct_data
+URL: https://fenkovrn.ru/
+
+-----
+
+-----
+Test: test_2_authorization.py::test_authorization_in_website (call)
+Start time: 2025-03-11 17:03:15.178325
+Start name method: open_personal_cabinet
+
+End time: 2025-03-11 17:03:16.999735
+End name method: open_personal_cabinet
+URL: https://fenkovrn.ru/personal/
+
+-----
+
+-----
+Test: test_2_authorization.py::test_authorization_in_website (call)
+Start time: 2025-03-11 17:03:17.000735
+Start name method: open_personal_data_page
+
+End time: 2025-03-11 17:03:18.633102
+End name method: open_personal_data_page
+URL: https://fenkovrn.ru/personal/private/
+
+-----
+
+-----
+Test: test_2_authorization.py::test_authorization_in_website (call)
+Start time: 2025-03-11 17:03:18.633102
+Start name method: assert_personal_data
+
+End time: 2025-03-11 17:03:21.497746
+End name method: assert_personal_data
+URL: https://fenkovrn.ru/
+
+-----
+
+-----
+Test: test_3_add_product_in_cart.py::test_add_product_in_cart (call)
+Start time: 2025-03-11 17:03:29.436532
+Start name method: open_login_window
+
+End time: 2025-03-11 17:03:29.876631
+End name method: open_login_window
+URL: https://fenkovrn.ru/
+
+-----
+
+-----
+Test: test_3_add_product_in_cart.py::test_add_product_in_cart (call)
+Start time: 2025-03-11 17:03:29.876631
+Start name method: authorization_with_correct_data
+
+End time: 2025-03-11 17:03:36.157042
+End name method: authorization_with_correct_data
+URL: https://fenkovrn.ru/
+
+-----
+
+-----
+Test: test_3_add_product_in_cart.py::test_add_product_in_cart (call)
+Start time: 2025-03-11 17:03:36.157042
+Start name method: select_category_product
+
+End time: 2025-03-11 17:03:39.294748
+End name method: select_category_product
+URL: https://fenkovrn.ru/catalog/sadovaya-tekhnika/gazonokosilki/
+
+-----
+
+-----
+Test: test_3_add_product_in_cart.py::test_add_product_in_cart (call)
+Start time: 2025-03-11 17:03:39.295748
+Start name method: set_filters_and_add_product_to_cart
+
+End time: 2025-03-11 17:03:52.571541
+End name method: set_filters_and_add_product_to_cart
+URL: https://fenkovrn.ru/personal/cart/
+
+-----
+
+-----
+Test: test_3_add_product_in_cart.py::test_add_product_in_cart (call)
+Start time: 2025-03-11 17:03:52.572542
+Start name method: verification_added_product
+
+End time: 2025-03-11 17:03:55.173750
+End name method: verification_added_product
+URL: https://fenkovrn.ru/personal/order/make/
+
+-----
+
+-----
+Test: test_4_finish_order.py::test_finish_order (setup)
+Start time: 2025-03-11 17:04:02.342664
+Start name method: open_login_window
+
+End time: 2025-03-11 17:04:02.523047
+End name method: open_login_window
+URL: https://fenkovrn.ru/
+
+-----
+
+-----
+Test: test_4_finish_order.py::test_finish_order (setup)
+Start time: 2025-03-11 17:04:02.523047
+Start name method: authorization_with_correct_data
+
+End time: 2025-03-11 17:04:07.316529
+End name method: authorization_with_correct_data
+URL: https://fenkovrn.ru/
+
+-----
+
+-----
+Test: test_4_finish_order.py::test_finish_order (setup)
+Start time: 2025-03-11 17:04:07.317530
+Start name method: open_cart
+
+End time: 2025-03-11 17:04:09.185950
+End name method: open_cart
+URL: https://fenkovrn.ru/personal/cart/
+
+-----
+
+-----
+Test: test_4_finish_order.py::test_finish_order (setup)
+Start time: 2025-03-11 17:04:09.185950
+Start name method: verification_added_product
+
+End time: 2025-03-11 17:04:11.487469
+End name method: verification_added_product
+URL: https://fenkovrn.ru/personal/order/make/
+
+-----
+
+-----
+Test: test_4_finish_order.py::test_finish_order (call)
+Start time: 2025-03-11 17:04:11.488469
+Start name method: placing_an_order
+
+End time: 2025-03-11 17:04:20.396850
+End name method: placing_an_order
+URL: https://fenkovrn.ru/personal/order/make/
+
+-----
